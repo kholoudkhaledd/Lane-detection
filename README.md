@@ -25,3 +25,4 @@ The weights for these trained models are provided in this repository.
 
 - **FCN (ResNet50 Backbone)**: 97.79% accuracy on the test subset.
 - **UNet (MobileNetV2 Encoder)**: 95.75% accuracy on the test subset.
+- ![Description](laneinfernece image.png)
