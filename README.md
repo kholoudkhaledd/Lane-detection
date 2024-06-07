@@ -1,7 +1,7 @@
 # README
 
 ## Lane Detection with FCN and UNet on the TuSimple Dataset
-![Lane Detection](laneinferenceimage.png)
+![Description](laneinferenceimage.png)
 This project involves training and evaluating two neural network models for lane detection on the TuSimple dataset. The models used are:
 
 1. **FCN with ResNet50 Backbone**
